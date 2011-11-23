@@ -7,8 +7,8 @@ gem 'rails', '3.1.1'
 
 gem 'sqlite3'
 #gem 'sqlite3-ruby', :require => 'sqlite3'
-#gem 'execjs'
-#gem 'therubyracer'
+gem 'execjs'
+gem 'therubyracer'
 
 gem 'json'
 
